@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruv-Limbachiya?tab=repositories](https://github.com/Dhruv-Limbachiya?tab=repositories)
 
-- 💬 Ask me about **android,jetpack compose & flutter**
+- 💬 Ask me about **android, jetpack compose & flutter**
 
 - 📫 How to reach me **dhruvv.developer@gmail.com**
 
