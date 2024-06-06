@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-limbachiya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-limbachiya" /> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Dhruv-Limbachiya/ExpenseTracker)
+- 🔭 I’m currently working on [Recipe Generator](https://github.com/Dhruv-Limbachiya/recipe-generator)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
